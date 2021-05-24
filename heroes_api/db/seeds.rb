@@ -1,3 +1,8 @@
+HeroPower.destroy_all
+Hero.destroy_all
+Power.destroy_all
+Weapon.destroy_all
+
 fists = Weapon.create name: 'fists'
 chair = Weapon.create name: 'chair'
 bubble_gun = Weapon.create name: 'bubble gun'
